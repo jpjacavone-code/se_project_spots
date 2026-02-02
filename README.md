@@ -51,5 +51,5 @@ Following best practices for scalable front end projects.
 This webpage is deployed to GitHub pages.
 Pitch video deployed with Loom.
 
-- Deployment Link: https://jpjacavone-code.github.io/se_project_spots/
-- Pitch Video: https://www.loom.com/share/8f00c989c70044bda4188baaa17d01f4
+- [Deployment Link](https://jpjacavone-code.github.io/se_project_spots/)
+- [Pitch Video](https://www.loom.com/share/8f00c989c70044bda4188baaa17d01f4)
