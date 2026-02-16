@@ -19,7 +19,7 @@
 .modal__container {
   max-width: 730px;
   width: 100%;
-  border: radius 8px;
+  border-radius: 8px;
   background-color: #fff;
   padding: 32px 50px;
   position: relative;
